@@ -1,0 +1,14 @@
+:root{
+    --primary-font: "DM Sans", sans-serif;
+
+
+    --bg-green: #006450;
+    --bg-lilac: #8400E7;
+    --bg-blue: #1E3264;
+    --bg-red: #8C1932;
+    --bg-pink: #E8115B;
+    --bg-blue-pool: #537AA1;
+    
+    --bg-icon: #131313; 
+    --bg-arrow-color: rgba(0,0,07);
+}

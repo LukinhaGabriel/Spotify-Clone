@@ -1,0 +1,25 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "Projeto Construido na imersão Front-End da aula - clone do spotify",
+  "main": "index.js",
+  "scripts": {
+    "start:json": "npx  json-server --watch api-artists/artists.json --port 8080",
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint"
+  },
+  "author": "Lucas Gabriel Moya",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.7",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18"
+  }
+}

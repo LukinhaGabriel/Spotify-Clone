@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "Foo Fighters",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+        },
+        {
+            "id": 2,
+            "name": "Gabriela Rocha",
+            "genre": "Gospel",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5ebaab2f3f382e00803e239bf63"
+        },
+        {
+            "id": 3,
+            "name": "Isadora Pompeo",
+            "genre": "Gospel",
+            "urlImg": "https://i.scdn.co/image/ab676161000051746322d8d47cd6670a67827f33"
+        },
+        {
+            "id": 4,
+            "name": "Thaiane Saghetto",
+            "genre": "Gospel",
+            "urlImg": "https://i.scdn.co/image/ab67616d0000b273facbd16c0315bfe1c098510d"
+        },
+        {
+            "id": 5,
+            "name": "Monte Santo",
+            "genre": "Gospel",
+            "urlImg": "https://i.scdn.co/image/ab67616d00001e02f83aefbdda5173e0bcce0a11"
+        },
+        {
+            "id": 6,
+            "name": "Ibab Celebração",
+            "genre": "Gospel",
+            "urlImg": "https://i.scdn.co/image/ab6765630000ba8a76753321baaede3104ef5220"
+        },
+        {
+            "id": 7,
+            "name": "Grupo Menos É Mais",
+            "genre": "pagode",
+            "urlImg": "https://i.scdn.co/image/ab6761610000e5eb88ea5f3e703b821f4f19fc81"
+        },
+        {
+            "id": 8,
+            "name": "Alok",
+            "genre": "Eletronica",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174f7d1bdca65e1cefd4e60c379"
+        }
+    ]
+}
